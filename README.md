@@ -1366,10 +1366,6 @@ UWE - RW Compatibility Patch.mod
 
 Описание: Патч совместимости для UWE и Reactive World.
 
-UWE - GenMod Compatibility Patch.mod
-
-Описание: Патч совместимости для UWE и General Modifications.
-
 UWE - WAO Compatibility Patch.mod
 
 Описание: Патч совместимости для UWE и Wakigawa's Animation Overhaul.
